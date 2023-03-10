@@ -5,5 +5,5 @@
 **Задача исследования:**\
 Разобраться в причинах убытков компании и помочь выйти в плюс.
 
-**Использованые библиотеки:**\
-Pandas, matplotlib.pyplot, numpy, datetime
+**Использованые инструменты:**\
+Python, pandas, matplotlib.pyplot, numpy, datetime
