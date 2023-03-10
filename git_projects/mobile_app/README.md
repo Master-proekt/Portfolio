@@ -3,5 +3,5 @@
 **Задача исследования:**\
 Разобраться как ведут себя пользователи мобильного приложения по продаже продуктов питания. Есть ли различия в поведении пользоватлей в зависимости от шрифта в приложении.
 
-**Использованные библиотеки:**\
-Pandas, matplotlib.pyplot, scipy.stats, datetime, numpy, math, plotly.express
+**Использованые инструменты:**\
+Python, pandas, matplotlib.pyplot, scipy.stats, datetime, numpy, math, plotly.express
