@@ -4,5 +4,5 @@
 Приоритизация гипотез,\
 Анализ результатов A/B теста.
 
-**Использованные библиотеки:**\
-Pandas, matplotlib.pyplot, scipy, datetime, numpy
+**Использованые инструменты:**\
+Python, pandas, matplotlib.pyplot, scipy, datetime, numpy
