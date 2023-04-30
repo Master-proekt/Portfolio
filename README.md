@@ -13,4 +13,4 @@
 
 |Название проекта|Инструменты|Цель и задачи|Ссылка|
 |:--------------:|:---------:|:-----------:|:----:|
-|Аналитика развлекательного приложения Procrastinate Pro+|Python|Задача|<git_projects/App_Procrastinate_Pro+>|
+|Аналитика развлекательного приложения Procrastinate Pro+|Python, Pandas, Matplotlib, когортный анализ, юнит-экономика, продуктовые метрики, Seaborn|Разобраться в причинах  убытков и помочь компании выйти в плюс|<[git_projects/App_Procrastinate_Pro+](https://github.com/Master-proekt/Portfolio/tree/main/git_projects/App_Procrastinate_Pro%2B)>|
